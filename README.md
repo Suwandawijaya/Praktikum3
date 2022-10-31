@@ -26,7 +26,7 @@ Phi merupakan nilai konstanta di matematika sementara jari-jari merupakan jarak 
 ### Hasil
 ![Gambar Installation Guide](img/output.png)
 
-### PENJELASAN :
+### PENJELASAN
 
 *   Kita deklarasikan variabel pi = 22/7, secara otomatis menggunakan tipe data float karena bernilai desimal.
 *   Kemudian diminta memasukan nilai Jari-jari (r), inputan dibungkus      float agar nanti perhitungan dapat mengoprasikan nilai desimal.
